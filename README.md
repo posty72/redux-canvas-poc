@@ -5,8 +5,8 @@ This project is to prove that Redux can be used to maintain the state of an HTML
 A few years back I built a game using ES5 and HTML5 Canvas ([source code can be found here](https://github.com/posty72/good-company-game)). Since making that, I moved into creating data-driven applications powered by React and Redux. It's been sitting in the back of my head for a while, but I always wondered how it would look to maintain the state of a game using Redux. I also wanted to see how Redux looked outside of a React application.
 
 ## Next steps
-- Add `redux-persist` so things stay sticky
-- Implement `[reselect](https://github.com/reactjs/reselect)` so less calculations are required after getting state
+- Add [redux-persist](https://github.com/rt2zz/redux-persist) so things stay sticky
+- Implement [reselect](https://github.com/reactjs/reselect) so less calculations are required after getting state
 - Add more complex components that "talk to each other"
 
 ## Tooling
