@@ -32,12 +32,12 @@ All you need to run this is:
 
 First we need to install our dependencies:
 ```
-yarn install
+npm install
 ```
 
 And then build our app:
 ```
-yarn build
+npm run build
 ```
 
 ## License
